@@ -11,4 +11,12 @@ pipeline     ::=  command
 
 commandexec  ::=  word
 ```
-<img width="782" alt="grammar" src="https://user-images.githubusercontent.com/80905157/226901110-d194736b-6375-4256-aa1c-5f0d5a10e8dd.png">
+
+
+<h1 align="center">
+
+<img width="782" alt="grammar" src="https://user-images.githubusercontent.com/80905157/226901110-d194736b-6375-4256-aa1c-5f0d5a10e8dd.png" width="10" height="550" />
+
+</h1>
+
+
