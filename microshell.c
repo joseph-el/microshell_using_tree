@@ -6,7 +6,7 @@
 /*   By: yoel-idr <yoel-idr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/22 11:08:03 by yoel-idr          #+#    #+#             */
-/*   Updated: 2023/03/22 11:56:29 by yoel-idr         ###   ########.fr       */
+/*   Updated: 2023/03/27 23:59:07 by yoel-idr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,14 +24,12 @@ int main(int argc, char **argv, char **envp)
     if (!root)
         return (exit(EXIT_FAILURE), 1);
 
-    // chose one executor
-    
     /** 1
      * @brief stack executor
      * @param t_stack *root
-     * @param char **envp
+     * @param char **envp |
      */
-    
+
     // set_executor(&exec, root, 0);
     // stack_executor(exec, envp);
 

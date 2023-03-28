@@ -6,13 +6,13 @@
 /*   By: yoel-idr <yoel-idr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/22 11:11:28 by yoel-idr          #+#    #+#             */
-/*   Updated: 2023/03/22 11:58:00 by yoel-idr         ###   ########.fr       */
+/*   Updated: 2023/03/27 23:59:56 by yoel-idr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 # include "microshell.h"
 
-void           ft_cd(char **args)
+void    ft_cd(char **args)
 {
     int index;
     int change;
